@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Aidi - Warunki używania serwisu
 
-You can use the [editor on GitHub](https://github.com/aidibot/terms/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aidi jest Serwisem (Serwis) umożliwiającym przechowywanie i przetwarzanie informacji wysłanych do Serwisu wg przeznaczenia poszczególnych funkcji Serwisu. Wysyłanie informacji oraz otrzymywanie wyników działania serwisu odbywa się za pomocą zewnętrznego do Serwisu systemu typu chat.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Osoba wysyłająca informacje do Serwisu (Użytkownik) zgadza się na poniższe Warunki używania serwisu (Warunki).
 
-### Markdown
+Operatorem serwisu (Operator) jest firma LingLab Marek Łabuzek, REGON 020177881.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Dostęp do Serwisu
 
-```markdown
-Syntax highlighted code block
+Użytkownik może uzyskać dostęp do usług Serwisu oraz danych przechowywanych w nim wyłącznie ze swojego konta w systemie typu chat, za pomocą którego rozpoczął komunikację z botem.
 
-# Header 1
-## Header 2
-### Header 3
+Operator zastrzega sobie prawo na zablokowanie dostępu do Serwisu i przechowywanych w niej informcji w dowolnym momencie.
 
-- Bulleted
-- List
+## Polityka prywatności
 
-1. Numbered
-2. List
+Polityka prywatności znajduje się pod adresem: [https://aidibot.github.io/privacy/](https://aidibot.github.io/privacy/)
 
-**Bold** and _Italic_ and `Code` text
+Informacje wysyłane do Serwisu mogą być przetwarzane oraz przechowywane na serwerach znajdujących się poza Europą, w tym w Stanach Zjednoczonych. Użytkownik wyraża zgodę na wysyłanie i przechowywanie tych informacji poza Europę, w tym do Stanów Zjednoczonych.
 
-[Link](url) and ![Image](src)
-```
+## Zastrzeżenia dotyczące gwarancji
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Operator dokłada wszelkich starań, żeby Serwis działal nieprzerwanie i prawidłowo, ale Użytkownik korzysta z niego na własną odpowiedzialność.
+Serwis jest udostępniony w stanie jakim jest ("as-is"), bez jakiejkolwiek gwarancji.
 
-### Jekyll Themes
+## Ogranczenie odpowiedzialności
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aidibot/terms/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Operator nie ponosi jakiejkolwiek odpowiedzialności za skutki używania Serwisu przez Użytkownika lub szkody wynikającego z użytkowania Serwisu.
+Operator nie ponosi jakiejkolwiek odpowiedzialności za szkody powstałe z powodu niedostępności serwisu, jego nieprawidłowego działania lub utraty danych.
 
-### Support or Contact
+## Zmiany
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Operator może zmieniać zawartość Warunków bez wcześniejszej zapowiedzi. Obowiązującą wersją Warunków jest aktulna treść zawarta na tej stronie.
+
+## Kontakt
+
+W razie pytań można skontaktować się pisząc na adres email: info@aidibot.com.
